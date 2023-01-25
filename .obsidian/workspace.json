@@ -23,12 +23,8 @@
             "id": "3c47b193995a6fd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "词根/2) -form-.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "词根/2) -form-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "词根/2) -form-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "词根/2) -form-.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +151,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c47b193995a6fd6",
+  "active": "2c48c5c1033cad60",
   "lastOpenFiles": [
-    "词缀/2) -form- 前后缀.md",
+    "词根/1) -vinc- -vict-.md",
     "词根/2) -form-.md",
+    "词缀/2) -form- 前后缀.md",
     "词缀/1) -vinc- -vict- 前后缀.md",
     "[.md",
     "思维导图/1) -vict- -vinc-.md",
-    "词根/1) -vinc- -vict-.md",
     "思维导图/未命名.md",
     "未命名思维导图.md",
     "未命名思维导图 1.md"
