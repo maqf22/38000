@@ -70,6 +70,77 @@
 **victimizer ['vɪktɪmaɪzə] n.  施害者**
 ==victimize + -er名词后缀，表人==
 
+---
+
+convince [kən'vɪns] vt.  说服；使确信
+==con-强调 + -vinc-征服——说服 + -e动词后缀==
+
+convinced [kən'vɪnst] adj.  确信的，信服的
+==convince + -ed形容词后缀，表……的==
+
+unconvinced [,ʌnkən'vɪnst] adj.  不信服的；怀疑的
+==un-表否定 + convinced==
+
+convincing [kən'vɪnsɪŋ] adj.  令人信服的；有说服力的
+==convince + -ing形容词后缀，表令……的==
+
+unconvincing [ʌnkən'vɪnsɪŋ] adj.  不足以令人相信的
+==un-否定 + convincing==
+
+convincingly [kən'vɪnsɪŋli] adv.  令人信服地；有说服力地
+==convincing + -ly副词后缀==
+
+unconvincingly [ʌnkən'vɪnsɪŋli] adv.  缺乏说服力地；无法令人信服地
+==unconvincing + -ly副词后缀==
+
+---
+
+convict [kən'vɪkt] n.  囚犯 vt.  证明…有罪；宣告…有罪
+==con-强调 + -vict-征服——俘虏——囚犯==
+*词根结尾的单词通常是多词性*
+
+ex-convict [,eks'kɔnvikt] n. 从前曾被判刑的人；[法] 前科犯
+==ex-前任 + convict==
+
+post-conviction [pəust-kən'vɪkʃ(ə)n] n.  定罪后救济
+==post-在……之后 + convict -ion名词后缀==
+
+---
+
+evict [ɪ'vɪkt] vt.  驱逐；逐出
+==e-向外 + -vict-征服——驱逐==
+
+eviction [ɪ'vɪkʃ(ə)n] n.  逐出；赶出；收回
+==evict + -ion名词后缀==
+
+evicted [ɪ'vɪktid] adj.  被驱逐的
+==evict + -ed形容词后缀（因为也表过去分词，所以含有被动含义）==
+
+evince [ɪ'vɪns] vt.  表明，表示；引起
+==e-向外 -vinc-征服——显示武力——表示表明 + -e动词后缀==
+
+---
+
+vincible ['vɪnsɪb(ə)l] adj.  可征服的，易克服的
+==-vinc-征服 + -ible形容词后缀，表能……的==
+
+invincible [ɪn'vɪnsɪb(ə)l] adj.  无敌的；不能征服的
+==in-否定 + vincible==
+
+invincibility [ɪn,vɪnsə'bɪləti] n.  无敌；不可战胜
+==invincible + -ity名词后缀==
+*-ible/able + -ity名词后缀 = -ibil/abil + -ity = -ibility/ability复合名词后缀*
+
+vincristine [vɪn'krɪstiːn] n. [药]  长春新碱（一种抗肿瘤药）
+==-vinc-征服——抗击 + -rist- + -ine名词后缀==
+
+
+
+
+
+
+
+
 
 
 
