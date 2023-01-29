@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "afe26715e4734757",
+        "id": "5aa4de1fa3ba2c33",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f0ed520bb15432",
+            "id": "32e841ad97ceab56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "词根/2) -form-.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a14bb8b8a18d24ad",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "思维导图/2) -form-.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "0758d2a6d24b25e1",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思维导图/2) -form-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "思维导图/2) -form-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "思维导图/2) -form-.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,10 +139,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2c48c5c1033cad60",
+  "active": "32e841ad97ceab56",
   "lastOpenFiles": [
-    "词根/2) -form-.md",
     "思维导图/2) -form-.md",
+    "词根/2) -form-.md",
     "思维导图/1) -vict- -vinc-.md",
     "词缀/2) -form- 前后缀.md",
     "词缀/前后缀.md",
