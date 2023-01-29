@@ -11,14 +11,16 @@ in- | 使动 否定
 mis- | 错误
 dis- | 否定
 pro- | 向前
-con- | 共同
+con- | 共同 在一起
 per- | 完全
 out- | 超过
-re- | 反复
+re- | 反复 再次
 mal- | 坏
 non- | 否定
 semi- | 半
 multi- | 多
+counter- | 反
+de- | 分
 
 
 # 后缀
@@ -51,3 +53,11 @@ multi- | 多
 -or | 名词后缀，表物
 -ula | 集合名词后缀
 -ate | 动词后缀
+-ion | 名词后缀
+-ary | 名词或形容词后缀
+-at/-it/-id | 动词或名词后缀
+-arian = -ary + -an | 名词或形容词后缀
+-ist | 名词后缀 表人
+-ory | 名词后形容后缀
+-ance | 名词后缀
+-able | 形容词后缀 表能……的
