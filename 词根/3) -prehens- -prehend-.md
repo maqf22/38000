@@ -69,6 +69,32 @@ missapprehensively ['mis,æpri'hensivli] adv. 易产生误解地
 
 ----
 
+prehensile [prɪ'hensaɪl] adj.  适于抓握的；善于领会的
+==-prehens-抓 + -ile形容词后缀，表能……的==
+
+prehension [prɪ'henʃ(ə)n] n.  理解；抓住
+==-prehens-抓 + -ion名词后缀==
+
+---
+
+reprehend [,reprɪ'hend] vt.  申斥；指责  n.  责备
+==re-往回 -reprehend-抓——抓回来——治罪，指责，责备==
+
+reprehension [,reprɪ'henʃən] n.  非难；指责
+==reprehend(-prehend- = -prehens-) + -ion名词后缀==
+
+reprehensive [,repri'hensiv] adj.  谴责的；非难的
+==reprehend(s) + -ive形容词后缀==
+
+reprehensible [,reprɪ'hensɪb(ə)l] adj.  应斥责的；应该谴责的
+==reprehend(s) + -ible形容词后缀，表能……的==
+
+reprehensibly [,rɛprɪ'hɛnsəbli] adv.  应受责难地；应受斥责地
+==reprehensible + -ly副词后缀==
+
+reprehensibility [,reprihensə'biləti] n.  应受谴责性
+==reprehensible + -ity名词后缀==
+
 
 
 
